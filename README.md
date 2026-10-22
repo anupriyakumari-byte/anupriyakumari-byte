@@ -14,4 +14,4 @@ These are some of the languages & tools I use to develop projects.
 
 ### Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anupriya-bytel&theme=radical&border_radius=10&background=45%2C250D0D%2C060202)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=anupriya-byte)](https://git.io/streak-stats)
