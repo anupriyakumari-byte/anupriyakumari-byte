@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi I'm [Anupriya](https://github.com/anupriya-byte)  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />
 
-<!--
-**anupriyakumari-byte/anupriyakumari-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=anupriya-byte&label=Profile%20views&color=0e75b6&style=flat)
 
-Here are some ideas to get you started:
+Hey I am Anupriya, so a while ago I was not much into tech but since I joined [KIIT]([https://www.srmist.edu.in/](https://kiit.ac.in/)) I started feeling some sorta attachement towards technology so I started working around some languages and frameworks like C, Java and some I'm still learning, in short I am just another person who wanna explore this amazing world full of learing and new tech evolving every second.
+I would like the explore this world full of surprises with AGI(Artificial Generative Intelligence) evolving with humans.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+
+These are some of the languages & tools I use to develop projects.
+
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+
+### Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=anupriya-bytel&theme=radical&border_radius=10&background=45%2C250D0D%2C060202)](https://git.io/streak-stats)
